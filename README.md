@@ -8,7 +8,15 @@
 
 ---
 
-## 🧠 Finance & Research
+## 🎓 Education
+
+- **Ph.D. in Finance**, Hanken School of Economics, Finland *(2020–Present)*  
+- **MBA**, Mount Kenya University, Kenya *(2012–2014)*  
+- **BSc in Applied Mathematics (Statistical Modelling)**, National University of Rwanda *(2008–2012)*  
+
+---
+
+## 💼 Finance and Research
 
 - Corporate Finance  
 - Financial Economics  
@@ -18,7 +26,7 @@
 
 ---
 
-## 📄 Selected Reaserch Publications & Working Papers
+## 📄 Selected Research Publications & Working Papers
 
 - *"The Effects of Government Debt on Corporate Borrowing in Developing Economies"* (R&R, JIBS)  
 - *"Wartime Financing and Corporate Leverage"* (Working Paper)  
