@@ -2,13 +2,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
 </p>
 
-# 👋 Hey, I'm **Theogene Habimana** – Ph.D. Candidate in Finance
+#  Hey,👋 I'm **Theogene Habimana** – Ph.D. Candidate in Finance
 
 🎓 Ph.D. student at [Hanken School of Economics](https://www.hanken.fi/), Scholar at Risk, and researcher in financial economics, corporate finance, and econometrics.  
 
 ---
 
-## 🧠 Research Interests
+## 🧠 Finance & Research
 
 - Corporate Finance  
 - Financial Economics  
@@ -18,7 +18,7 @@
 
 ---
 
-## 📄 Selected Publications & Working Papers
+## 📄 Selected Reaserch Publications & Working Papers
 
 - *"The Effects of Government Debt on Corporate Borrowing in Developing Economies"* (R&R, JIBS)  
 - *"Wartime Financing and Corporate Leverage"* (Working Paper)  
@@ -81,7 +81,7 @@
 
 ---
 
-## 👥 Memberships
+## 👥 Professional Memberships
 
 - Scholar at Risk (SaR)  
 - Academy of International Business (AIB)  
