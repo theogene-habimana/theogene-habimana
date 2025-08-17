@@ -2,17 +2,17 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
 </p>
 
-#  Hey,👋 I'm **Theogene Habimana** – Ph.D. Candidate in Finance
+#  Hey,👋 I'm **Theogene Habimana,– Ph.D. in in Finance
 
-🎓 Ph.D. student at [Hanken School of Economics](https://www.hanken.fi/), Scholar at Risk, and researcher in financial economics, corporate finance, and econometrics.  
+🎓 Researcher at [Hanken School of Economics](https://www.hanken.fi/). Researcher in Financial Economics, Corporate Finance, Econometrics, Machine Learning Models, and Cybersecurity Risks.  
 
 ---
 
 ## 🎓 Education
 
-- **Ph.D. in Finance**, Hanken School of Economics, Finland *(2020–Present)*  
+- **Ph.D. in Finance**, Hanken School of Economics, Finland *(2020–2025)*  
 - **MBA**, Mount Kenya University, Kenya *(2012–2014)*  
-- **BSc in Applied Mathematics (Statistical Modelling)**, National University of Rwanda *(2008–2012)*  
+- **BSc in  Mathematics**, National University of Rwanda *(2008–2012)*  
 
 ---
 
@@ -23,12 +23,13 @@
 - Econometrics  
 - Geopolitical Risks & Development Finance  
 - Machine Learning in Finance
+- Cybersecurity Risks in Finance
 
 ---
 
 ## 📄 Selected Research Publications & Working Papers
 
-- *"The Effects of Government Debt on Corporate Borrowing in Developing Economies"* (R&R, JIBS)  
+- *The Effects of Government Debt on Corporate Borrowing in Developing Economies* — [SpringerLink](https://link.springer.com/article/10.1057/s41267-025-00791-1) | [DOI](https://doi.org/10.1057/s41267-025-00791-1) 
 - *"Wartime Financing and Corporate Leverage"* (Working Paper)  
 - *"Foreign Aid Flows and Corporate Financing"* (Working Paper)  
 - *"Government Financing and Corporate Leverage: International Markets Evidence"* (Doctoral Dissertation)
