@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
 </p>
 
-#  Hey,👋 I'm **Theogene Habimana,– Ph.D. in in Finance
+#  Hey,👋 I'm **Theogene Habimana,– Ph.D. in Corporate Finance
 
 🎓 Researcher at [Hanken School of Economics](https://www.hanken.fi/). Researcher in Financial Economics, Corporate Finance, Econometrics, Machine Learning Models, and Cybersecurity Risks.  
 
