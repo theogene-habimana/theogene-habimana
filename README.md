@@ -106,7 +106,7 @@
 - 📞 Tel: +358 45 162 3411  
 - 📍 Address: Von Daehnin Katu 3 A 6, 00790 Helsinki, Finland  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/theogene-habimana-91679160) | [ORCID](https://orcid.org/0000-0002-5203-8452)
--[📄 View My CV](https://www.theogenehabimana.com/files/Habimana_CV.pdf)
+  -(https://github.com/theogene-habimana/c-v/Habimana_CV.pdf)
 
 ---
 
