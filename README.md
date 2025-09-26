@@ -2,17 +2,19 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
 </p>
 
-#  Hey,👋 I'm **Theogene Habimana,– Ph.D. in Corporate Finance
+# Hey,👋 I'm **Theogene Habimana – Ph.D. in Corporate Finance**
 
-🎓 Researcher at [Hanken School of Economics](https://www.hanken.fi/). Researcher in Financial Economics, Corporate Finance, Econometrics, Machine Learning Models, and Cybersecurity Risks.  
+🎓 Postdoctoral Researcher at [Hanken School of Economics](https://www.hanken.fi/).  
+Researcher in Corporate Finance, Financial Economics, Econometrics, Machine Learning Models, and Cybersecurity Risks.  
 
 ---
 
 ## 🎓 Education
 
 - **Ph.D. in Finance**, Hanken School of Economics, Finland *(2020–2025)*  
+- **Transition Studies in Finance**, Graduate School of Finance, Finland *(2018–2020)*  
 - **MBA**, Mount Kenya University, Kenya *(2012–2014)*  
-- **BSc in  Mathematics**, National University of Rwanda *(2008–2012)*  
+- **B.Sc. in Applied Mathematics**, National University of Rwanda *(2008–2012)*  
 
 ---
 
@@ -20,45 +22,61 @@
 
 - Corporate Finance  
 - Financial Economics  
-- Econometrics  
+- Econometrics & Time Series  
 - Geopolitical Risks & Development Finance  
-- Machine Learning in Finance
-- Cybersecurity Risks in Finance
+- Machine Learning in Finance  
+- Cybersecurity & AI in Finance  
 
 ---
 
 ## 📄 Selected Research Publications & Working Papers
 
-- *The Effects of Government Debt on Corporate Borrowing in Developing Economies* — [SpringerLink](https://link.springer.com/article/10.1057/s41267-025-00791-1) | [DOI](https://doi.org/10.1057/s41267-025-00791-1) 
-- *"Wartime Financing and Corporate Leverage"* (Working Paper)  
-- *"Foreign Aid Flows and Corporate Financing"* (Working Paper)  
-- *"Government Financing and Corporate Leverage: International Markets Evidence"* (Doctoral Dissertation)
+- *The Effects of Government Debt on Corporate Borrowing in Developing Economies: Evidence from Africa* — [JIBS (2025)](https://doi.org/10.1057/s41267-025-00791-1)  
+- *Wartime Financing and Corporate Leverage* — [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5401175)  
+- *Aid and Corporate Financing* — [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5401173)  
+- *Government Financing and Corporate Leverage: International Markets Evidence* — Doctoral Dissertation  
+
+**Work in Progress**  
+- Financial Crowding-In vs. Crowding-Out Effects: Theoretical Perspectives  
+- Arms-Length Borrowing and Financial Crowding-In (Cross-Listed Firms)  
+- Cybersecurity Risks, AI, and Financial Resilience of Multinationals  
+- ESG Disclosure, Governance, and Capital Structure in Emerging Markets  
+- CEO Background, Management Control Systems & Sustainable Performance  
 
 ---
 
 ## 🎤 Conference Presentations
 
 - 🇺🇸 **FMA Annual Meeting 2022** – *The Financial Crowding-In Effect of Public Debt in Africa*  
-- 🇫🇷 **European Winter Finance Conference 2023** – *Government Debt and Corporate Borrowing in Developing Economies*
+- 🇫🇷 **European Winter Finance Conference 2023** – *Government Debt and Corporate Borrowing*  
+- 🇰🇪 **African Economic Society Annual Meeting 2023** – *Development Finance and Corporate Borrowing*  
+- 🇳🇿 **New Zealand Finance Meeting 2023** – *Crowding-In vs. Crowding-Out Effects*  
+- 🇰🇷 **Academy of International Business (AIB) 2024** – *Foreign Aid and Corporate Financing*  
 
 ---
 
 ## 💼 Professional Experience
 
-**Hanken School of Economics (2020–Present)**  
-- Research in financial economics and corporate finance  
-- Teaching assistant: Corporate Finance, Econometrics, Portfolio Management
+**Hanken School of Economics (2025–Present)**  
+- Postdoctoral Researcher, Finance  
 
-**Kenya Commercial Bank (KCB Rwanda) (2014–2018)**  
-- Credit Analyst: Financial statement analysis and credit risk assessment
+**Hanken School of Economics (2019–2025)**  
+- Doctoral Researcher and Teaching Assistant  
+- Teaching: Corporate Finance, Econometrics, Portfolio Management, Capital Budgeting, Machine Learning for Finance  
+
+**KCB Bank Rwanda (2014–2016)**  
+- Credit Analyst: Financial statement analysis and credit risk assessment  
 
 ---
 
 ## 🏆 Grants & Awards
 
-- Foundation for Economic Education (€23,000 – 2022, 2024)  
-- Hanken Support Foundation (€3,845 in 2023, €2,400 in 2024)  
-- AIB Doctoral Student Stipend (€1,000 – 2024)
+- Foundation for Economic Education (€23,000 – 2022 & 2024)  
+- Center for Financial Research Grant (€12,000 – 2023)  
+- Finland Sustainable Investment Forum Doctoral Grant (€8,000 – 2023)  
+- Hanken Support Foundation (€3,845 – 2023; €2,400 – 2024)  
+- Hanken Foundation Outstanding Publication Award (€3,335 – 2025)  
+- AIB Doctoral Student Stipend (€1,000 – 2024)  
 
 ---
 
@@ -67,18 +85,19 @@
 | Category             | Tools / Tech                            |
 |----------------------|-----------------------------------------|
 | Finance & Research   | Corporate Finance, Econometrics, ML     |
-| Programming & Tools  | <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="24"/> R, <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="40"/> Python |
-| Data Analytics       | Quantitative Research, Statistical Modelling |
+| Programming & Tools  | <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="24"/> R, <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="40"/> Python, Stata |
+| Data Platforms       | WRDS, Compustat–CRSP, LSEG Workspace, FactSet, S&P Capital IQ Pro, Audit Analytics |
 
 ---
 
 ## 🌍 Languages
 
-| Language | Proficiency |
-|----------|-------------|
-| 🇬🇧 English | Fluent |
-| 🇫🇮 Finnish | Intermediate |
-| 🇫🇷 French  | Intermediate |
+| Language       | Proficiency |
+|----------------|-------------|
+| 🇷🇼 Kinyarwanda | Native |
+| 🇬🇧 English     | Fluent |
+| 🇫🇮 Finnish     | Intermediate |
+| 🇫🇷 French      | Intermediate |
 
 ---
 
@@ -92,21 +111,23 @@
 
 ## 👥 Professional Memberships
 
-- Scholar at Risk (SaR)  
+- Financial Management Association (FMA)  
+- Econometric Society  
+- American Finance Association (AFA)  
+- European Finance Association (EFA)  
 - Academy of International Business (AIB)  
-- American Finance Association  
-- European Finance Association
+- European Accounting Association (EAA)  
+- American Accounting Association (AAA)  
 
 ---
 
 ## 📬 Contact
 
-- ✉️ Email: theogene.habimana@hanken.fi
-- portfolio:https://www.theogenehabimana.com/
+- ✉️ Emails: theogene.habimana@hanken.fi | habimana.theo1106@gmail.com  
+- 🌐 Portfolio: [theogenehabimana.com](https://www.theogenehabimana.com/)  
 - 📞 Tel: +358 45 162 3411  
 - 📍 Address: Von Daehnin Katu 3 A 6, 00790 Helsinki, Finland  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/theogene-habimana-91679160) | [ORCID](https://orcid.org/0000-0002-5203-8452)
-  -(https://github.com/theogene-habimana/c-v/blob/main/Habimana_CV.pdf)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/theogene-habimana-91679160) | [ORCID](https://orcid.org/0000-0002-5203-8452) | [CV](https://github.com/theogene-habimana/c-v/blob/main/Habimana_CV.pdf)  
 
 ---
 
@@ -116,6 +137,18 @@
 Doctoral Supervisor, Hanken School of Economics  
 📧 gonul.colak@hanken.fi  
 
+**Prof. Timo Korkeamäki**  
+Doctoral Supervisor, Aalto University  
+📧 dean-biz@aalto.fi  
+
 **Prof. Lemma W. Senbet**  
-Academic Mentor, University of Maryland  
+Doctoral Defense Opponent, University of Maryland  
 📧 lwsenbet@umd.edu  
+
+**Prof. Iftekhar Hasan**  
+Academic Advisor, Fordham University  
+📧 ihasan@fordham.edu  
+
+---
+
+⭐ *Citizenship: Finnish-Rwandan*  
